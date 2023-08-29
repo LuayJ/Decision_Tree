@@ -1,2 +1,2 @@
 # Decision_Tree
-A decision tree to predict income
+A decision tree from scratch to predict income
